@@ -1,4 +1,4 @@
-baseURL = "blognine.vercel.app"
+baseURL = "https://blognine.vercel.app"
 title = "shystum"
 paginate = 5
 theme = "PaperMod"
